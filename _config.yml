@@ -1,0 +1,5 @@
+title: Mariel
+description: > # this means to ignore newlines until "baseurl:"
+  Technology and applied mathematics enthusiast. STEM advocate
+github_username: mariel-rs
+theme: jekyll-theme-minimal
